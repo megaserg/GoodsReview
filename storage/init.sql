@@ -9,7 +9,7 @@ Database: MySQL 5.5
 
 -- Drop database section -----------------------------------------------
 
-DROP DATABASE IF EXISTS goodsreview_permanent
+DROP DATABASE IF EXISTS goodsreview_permanent;
 
 -- Create database section ---------------------------------------------
 
